@@ -1,0 +1,13 @@
+Сдача экзамена 
+
+Регистрация нового студента CREATE - INSERT INTO
+Оплата экзамена CREATE/UPDATE  - INSERT INTO/UPDATE
+Выбор билета CREATE - INSERT INTO
+Чтение билета READ - SELECT
+Сдача экзамена CREATE - INSERT INTO
+Исправление UPDATE - UPDATE
+Поиск результата сдачи эксамена READ - SELECT
+Удаление студента DELETE-  DELETE FROM
+Просмотрт профиля студента READ - SELECT
+Аналитика результатов AGGREGATION
+Аналитика по оплатам  AGGREGATION
